@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanemsu BOZ</h1>
+<h3 align="center">I graduated from Istanbul University</h3>
 - 📫 How to reach me **sanemsu.boz@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
